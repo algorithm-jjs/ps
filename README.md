@@ -29,14 +29,16 @@
 
 ### Contributor
 
+**김나현** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/nasus309)) |
+**정세연** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/sseyeon) |
 **황정훈** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/wjdgns7712) |
 
 <br>
 <hr>
 <br>
 
-|                      문제                        |                풀이                  |  난이도  |  김나현  |  황정훈  |
-|:-----------------------------------------------:|:-----------------------------------:|:------:|:------:|:------:|
-| [단절선](https://www.acmicpc.net/problem/11400)  |  [Here](./solution/BOJ_11400_단절선)  |  P5     |   -    |   -    |
+|                      문제                        |                풀이                  |  난이도  |  김나현  |  정세연  | 황정훈  |
+|:-----------------------------------------------:|:-----------------------------------:|:------:|:------:|:------:|:------:|
+| [단절선](https://www.acmicpc.net/problem/11400)  |  [Here](./solution/BOJ_11400_단절선)  |  P5     |   -    |   -    |   -   |
 
 <br>
