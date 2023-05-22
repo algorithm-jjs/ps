@@ -29,7 +29,7 @@
 
 ### Contributor
 
-**김나현** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/nasus309)) |
+**김나현** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/nasus309) |
 **정세연** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/sseyeon) |
 **황정훈** [![Git Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/wjdgns7712) |
 
